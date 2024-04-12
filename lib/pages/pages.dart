@@ -1,0 +1,11 @@
+export 'package:control_2_flutter/pages/home.dart';
+export 'package:control_2_flutter/pages/menu.dart';
+export 'package:control_2_flutter/pages/pagina_dos.dart';
+export 'package:control_2_flutter/pages/pagina_tres.dart';
+export 'package:flutter/material.dart';
+export 'package:control_2_flutter/pages/pagina_uno.dart';
+export 'package:control_2_flutter/pages/Construccion.dart';
+export 'package:control_2_flutter/routes/app_route.dart';
+export 'api_service.dart';
+export 'package:control_2_flutter/pages/pagina_notas.dart';
+export 'dart:convert';
